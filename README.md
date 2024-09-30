@@ -24,6 +24,9 @@ https://news-scrapper-6rdv.onrender.com/top_news  ==> Will Fetch the top News
 Response will be:-
 
 newsTitle :-> This contains the title of the news article
+
 imageUrl  :-> Contains image regarding the article
+
 newsDescription :-> Contains the Description or main content of the news Article
+
 newsUrl :-> Contains the Main Link to the News article
